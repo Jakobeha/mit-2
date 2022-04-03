@@ -1,6 +1,6 @@
 # The "MIT Double Attribution" (MIT-2) License
 
-The "MIT Double Attribution" or "MIT-2" license is a modification to the usual MIT license that include an additional requirement for attribution. It is roughly the same as an MIT license consisting of a ham sandwich, except there is an additional slice of ham inside of the sandwich.
+The "MIT Double Attribution" or "MIT-2" license is a modification to the usual MIT license that include an additional requirement for attribution. It is roughly the same as an MIT license if the MIT license was a McDonald's quarter-pounder, except the MIT-2 license is a McDonald's half-pounder.
 
 ## Rationale
 
